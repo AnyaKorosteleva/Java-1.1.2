@@ -13,7 +13,6 @@
 В результате тестирования выявлены следующие дефекты:
 * [Код не распознает номер карты в 14 знаков](https://github.com/AnyaKorosteleva/Java1.2/issues/4#issue-764297244)
 * [Код не распознает номер карты в 15 знаков](https://github.com/AnyaKorosteleva/Java1.2/issues/3#issue-764296594)
-* [Код не распознает номер карты в 18 знаков](https://github.com/AnyaKorosteleva/Java1.2/issues/2#issue-764294718)
 * [Код не распознает номер карты в 19 знаков](https://github.com/AnyaKorosteleva/Java1.2/issues/1#issue-764293076)
 
 ## Описание процесса тестирования
@@ -24,8 +23,6 @@
 
 В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
 * [14, 15 и 19 знаков](https://www.freeformatter.com/credit-card-number-generator-validator.html)
-* [18 знаков](https://sbankami.ru/karty/18-znachnyj-nomer-karty-sberbanka.html)
-* [18 знаков](https://wtools.io/ru/credit-card-generator)
 
 
 Тестирование производилось в следующем окружении:
